@@ -15,6 +15,11 @@ Terraform Module to setup a CMS (Content Management System) of your choice on AW
 
 
 
+
+
+
+
+
 CMS (Content Management System) configuration:
 We will launch WordPress application in an Amazon EC2 instance and connect it to Amazon RDS (database instance).
 
