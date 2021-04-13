@@ -1,24 +1,6 @@
 # Assignment-1
 
-Terraform Module to setup a CMS (Content Management System) of your choice on AWS
-
-·         The CMS must be backed by a relational database.
-
-·         Scalability and Fault Tolerance should be an important consideration of your design.
-
-·         Reusability of the terraform module should be part of the design.
-
-·         Provide a readme how to deploy and maintain your solution.
-
-·         Store your code in a publicly accessible git repository and send the link to the repository.
-
-
-
-
-
-
-
-
+Terraform Module to setup a CMS (Content Management System).
 
 CMS (Content Management System) configuration:
 We will launch WordPress application in an Amazon EC2 instance and connect it to Amazon RDS (database instance).
